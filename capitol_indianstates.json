@@ -1,0 +1,397 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Amaravati",
+        "State": "AndhraPradesh"
+      },
+      "geometry": {
+        "coordinates": [
+          80.51724398285575,
+          16.524730664641723
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Itanagar",
+        "State": "Arunachal Pradesh"
+      },
+      "geometry": {
+        "coordinates": [
+          93.6215504875629,
+          27.105526130653786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dispur",
+        "State": "Assam"
+      },
+      "geometry": {
+        "coordinates": [
+          91.79091523268823,
+          26.141296584942637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Patna",
+        "State": "Bihar"
+      },
+      "geometry": {
+        "coordinates": [
+          85.12628502028144,
+          25.64927326525718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Raipur",
+        "State": "Chhattisgarh"
+      },
+      "geometry": {
+        "coordinates": [
+          81.63329725443526,
+          21.247692864987698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Panaji",
+        "State": "Goa"
+      },
+      "geometry": {
+        "coordinates": [
+          73.82823589657278,
+          15.507942961774205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Gandhinagar",
+        "State": "Gujarat"
+      },
+      "geometry": {
+        "coordinates": [
+          72.65374773530718,
+          23.243466400349988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Chandigarh",
+        "State": "Haryana"
+      },
+      "geometry": {
+        "coordinates": [
+          76.77964058578607,
+          30.73914625480559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Shimla",
+        "State": "Himachal Pradesh"
+      },
+      "geometry": {
+        "coordinates": [
+          77.17620984657145,
+          31.116027042327445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ranchi",
+        "State": "Jharkahand"
+      },
+      "geometry": {
+        "coordinates": [
+          85.3283734623958,
+          23.380918633514867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bangalore",
+        "State": "Karnataka"
+      },
+      "geometry": {
+        "coordinates": [
+          77.59615745950254,
+          12.999572953980135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Thiruvananthapuram",
+        "State": "Kerala"
+      },
+      "geometry": {
+        "coordinates": [
+          76.93708143948948,
+          8.530310783033187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bhopal",
+        "State": "Madhya Pradesh"
+      },
+      "geometry": {
+        "coordinates": [
+          77.40259240747093,
+          23.277338448547184
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Mumbai",
+        "State": "Maharastra"
+      },
+      "geometry": {
+        "coordinates": [
+          72.87854776167023,
+          19.086945795973136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Imphal",
+        "State": "Manipur"
+      },
+      "geometry": {
+        "coordinates": [
+          93.93824456935073,
+          24.807690899041546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Shillong",
+        "State": "Meghalaya"
+      },
+      "geometry": {
+        "coordinates": [
+          91.88356435253252,
+          25.58057548334088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Aizawal",
+        "State": "Mizoram"
+      },
+      "geometry": {
+        "coordinates": [
+          92.71863255354282,
+          23.738994127128535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kohima",
+        "State": "Nagaland"
+      },
+      "geometry": {
+        "coordinates": [
+          94.10272741257131,
+          25.667396704127015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bhubaneswar",
+        "State": "Odisha"
+      },
+      "geometry": {
+        "coordinates": [
+          85.84094308173655,
+          20.26556492998735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Chandigarh",
+        "State": "Punjab"
+      },
+      "geometry": {
+        "coordinates": [
+          76.78074298264909,
+          30.74009376383586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Jaipur",
+        "State": "Rajasthan"
+      },
+      "geometry": {
+        "coordinates": [
+          75.81437467069327,
+          26.947536400793638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Gangtok",
+        "State": "Sikkim"
+      },
+      "geometry": {
+        "coordinates": [
+          88.61438203393993,
+          27.3423707094139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Chennai",
+        "State": "TamilNadu"
+      },
+      "geometry": {
+        "coordinates": [
+          80.2698391786061,
+          13.093105785259766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Hyderabad",
+        "State": "Telengana"
+      },
+      "geometry": {
+        "coordinates": [
+          78.47671335832752,
+          17.38667691117128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Agartala",
+        "State": "Tripura"
+      },
+      "geometry": {
+        "coordinates": [
+          91.28142397808074,
+          23.841393338520888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Lucknow",
+        "State": "Uttar Pradesh"
+      },
+      "geometry": {
+        "coordinates": [
+          80.93387347368906,
+          26.853825095917486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dehradun",
+        "State": "Uttarakhand"
+      },
+      "geometry": {
+        "coordinates": [
+          78.04078862850992,
+          30.33416204967662
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kolkata",
+        "State": "West Bengal"
+      },
+      "geometry": {
+        "coordinates": [
+          88.36464786036703,
+          22.578177811582066
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

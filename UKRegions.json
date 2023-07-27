@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Northern Ireland"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.109786724381763,
+          54.73490831671543
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Scotland"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.200240814135384,
+          56.87390073007063
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.616286809822725,
+          52.438215381570785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "England"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1829865466834235,
+          51.4837667199898
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
